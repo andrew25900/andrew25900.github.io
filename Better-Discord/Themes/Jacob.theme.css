@@ -1,0 +1,31 @@
+//META{"name":"Jacob's Red Theme","description":"Red Galaxy Theme","author":"andrew25900","version":"2.0"}*//
+@import url("https://raw.githack.com/andrew25900/JacobDiscordTheme/master/xcore.css");
+@import url('https://raw.githack.com/codedotspectra/themes/master/mini-themes/compactMemberList.css');
+
+:root {
+--bgImage: url(https://i.imgur.com/WSRUHGD.jpg);
+--HomeButtonImg: url(https://i.imgur.com/xV6cbUW.png);
+--brightness: 0.4;
+--PrimaryColor01: #FF0000;
+--PrimaryColorRGBA: rgba(255,0,0,.15);
+--PrimaryColor02: darkred;
+--DangerColor: #dc3545;
+--WarningColor: #ffc107;
+--SuccesColor: red;
+--InfoColor: #17a2b8;
+--DangerColor02: #ad1f2d;
+--WarningColor02: #cc9900;
+--SuccesColor02: darkred;
+--InfoColor02: #117888;
+--links: #3366ff;
+--ChatTextColor: hsla(0, 100%, 100%, 1);
+--RoleTitleColor: hsla(0, 100%, 100%, .95);
+--UserPlayingTextColor: hsla(0, 100%, 100%, .6);
+--ChannelsSelectedTextColor: hsla(0, 100%, 100%, .95);
+--ChannelsDefaultTextColor: hsla(0, 100%, 100%, .6);
+--ChannelsDarkTextColor: hsla(0, 100%, 100%, .2);
+--NTBackgroundColor01: #3a3f4b;
+--NTBackgroundColor02: #2b3039;
+--NTBackgroundColor03: #282c34;
+--NTBackgroundColor04: #FF0000;
+}
