@@ -31,7 +31,7 @@
 }
 
 :root {
-	--bgImage: url(https://i.imgur.com/WSRUHGD.jpg);
+	/*--bgImage: url(https://i.imgur.com/WSRUHGD.jpg);*/
 	--HomeButtonImg: url(https://raw.githubusercontent.com/codedotspectra/discordneutron/master/import/homeBtn.png);
 	--brightness: 0.4;
 	--customFont: 'Montserrat';
